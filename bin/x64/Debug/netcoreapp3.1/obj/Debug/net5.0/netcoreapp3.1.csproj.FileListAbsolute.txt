@@ -1,0 +1,16 @@
+C:\Users\Zivan\source\repos\DynamoDBDemo\DynamoDBDemo\bin\x64\Debug\netcoreapp3.1\bin\Debug\net5.0\netcoreapp3.1.exe
+C:\Users\Zivan\source\repos\DynamoDBDemo\DynamoDBDemo\bin\x64\Debug\netcoreapp3.1\bin\Debug\net5.0\netcoreapp3.1.deps.json
+C:\Users\Zivan\source\repos\DynamoDBDemo\DynamoDBDemo\bin\x64\Debug\netcoreapp3.1\bin\Debug\net5.0\netcoreapp3.1.runtimeconfig.json
+C:\Users\Zivan\source\repos\DynamoDBDemo\DynamoDBDemo\bin\x64\Debug\netcoreapp3.1\bin\Debug\net5.0\netcoreapp3.1.runtimeconfig.dev.json
+C:\Users\Zivan\source\repos\DynamoDBDemo\DynamoDBDemo\bin\x64\Debug\netcoreapp3.1\bin\Debug\net5.0\netcoreapp3.1.dll
+C:\Users\Zivan\source\repos\DynamoDBDemo\DynamoDBDemo\bin\x64\Debug\netcoreapp3.1\bin\Debug\net5.0\ref\netcoreapp3.1.dll
+C:\Users\Zivan\source\repos\DynamoDBDemo\DynamoDBDemo\bin\x64\Debug\netcoreapp3.1\bin\Debug\net5.0\netcoreapp3.1.pdb
+C:\Users\Zivan\source\repos\DynamoDBDemo\DynamoDBDemo\bin\x64\Debug\netcoreapp3.1\obj\Debug\net5.0\netcoreapp3.1.csprojAssemblyReference.cache
+C:\Users\Zivan\source\repos\DynamoDBDemo\DynamoDBDemo\bin\x64\Debug\netcoreapp3.1\obj\Debug\net5.0\netcoreapp3.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zivan\source\repos\DynamoDBDemo\DynamoDBDemo\bin\x64\Debug\netcoreapp3.1\obj\Debug\net5.0\netcoreapp3.1.AssemblyInfoInputs.cache
+C:\Users\Zivan\source\repos\DynamoDBDemo\DynamoDBDemo\bin\x64\Debug\netcoreapp3.1\obj\Debug\net5.0\netcoreapp3.1.AssemblyInfo.cs
+C:\Users\Zivan\source\repos\DynamoDBDemo\DynamoDBDemo\bin\x64\Debug\netcoreapp3.1\obj\Debug\net5.0\netcoreapp3.1.csproj.CoreCompileInputs.cache
+C:\Users\Zivan\source\repos\DynamoDBDemo\DynamoDBDemo\bin\x64\Debug\netcoreapp3.1\obj\Debug\net5.0\netcoreapp3.1.dll
+C:\Users\Zivan\source\repos\DynamoDBDemo\DynamoDBDemo\bin\x64\Debug\netcoreapp3.1\obj\Debug\net5.0\ref\netcoreapp3.1.dll
+C:\Users\Zivan\source\repos\DynamoDBDemo\DynamoDBDemo\bin\x64\Debug\netcoreapp3.1\obj\Debug\net5.0\netcoreapp3.1.pdb
+C:\Users\Zivan\source\repos\DynamoDBDemo\DynamoDBDemo\bin\x64\Debug\netcoreapp3.1\obj\Debug\net5.0\netcoreapp3.1.genruntimeconfig.cache

@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "cW8z5FXKUlTypgbEfsKnTWx0TtIqyqM19u18+dJXRUDsTkHHkXU0w/z7tHvbwAulj/YdxYJA2rTLvMP+j8N4GA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Zivan\\source\\repos\\DynamoDBDemo\\DynamoDBDemo\\DynamoDBDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Zivan\\.nuget\\packages\\awssdk.core\\3.7.0.3\\awssdk.core.3.7.0.3.nupkg.sha512",
+    "C:\\Users\\Zivan\\.nuget\\packages\\awssdk.dynamodbv2\\3.7.0.3\\awssdk.dynamodbv2.3.7.0.3.nupkg.sha512",
+    "C:\\Users\\Zivan\\.nuget\\packages\\awssdk.extensions.netcore.setup\\3.7.0.1\\awssdk.extensions.netcore.setup.3.7.0.1.nupkg.sha512",
+    "C:\\Users\\Zivan\\.nuget\\packages\\instana.tracing.core\\1.195.5\\instana.tracing.core.1.195.5.nupkg.sha512",
+    "C:\\Users\\Zivan\\.nuget\\packages\\instana.tracing.core.rewriter.windows\\1.195.5\\instana.tracing.core.rewriter.windows.1.195.5.nupkg.sha512",
+    "C:\\Users\\Zivan\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\2.0.0\\microsoft.extensions.configuration.abstractions.2.0.0.nupkg.sha512",
+    "C:\\Users\\Zivan\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.0.0\\microsoft.extensions.dependencyinjection.abstractions.2.0.0.nupkg.sha512",
+    "C:\\Users\\Zivan\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\2.0.0\\microsoft.extensions.logging.abstractions.2.0.0.nupkg.sha512",
+    "C:\\Users\\Zivan\\.nuget\\packages\\microsoft.extensions.primitives\\2.0.0\\microsoft.extensions.primitives.2.0.0.nupkg.sha512",
+    "C:\\Users\\Zivan\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512",
+    "C:\\Users\\Zivan\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.4.0\\system.runtime.compilerservices.unsafe.4.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}

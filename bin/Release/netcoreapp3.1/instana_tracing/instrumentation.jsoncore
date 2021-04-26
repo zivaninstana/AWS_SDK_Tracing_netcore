@@ -1,0 +1,740 @@
+{
+  "explicitDef": {
+    "MySql.Data.dll": {
+      "MySql.Data.MySqlClient.MySqlConnection": {
+        "Open": [
+          {
+            "numParams": 0,
+            "genericParams": 0
+          }
+        ],
+        "OpenAsync": [
+          {
+            "numParams": 0,
+            "genericParams": 0
+          },
+          {
+            "numParams": 1,
+            "genericParams": 0
+          }
+        ]
+      },
+      "MySql.Data.MySqlClient.MySqlCommand": {
+        "ExecuteReader": [
+          {
+            "numParams": 1,
+            "genericParams": 0
+          }
+        ],
+        "ExecuteNonQueryAsync": [
+          {
+            "numParams": 0,
+            "genericParams": 0
+          }
+        ]
+      }
+    },
+    "Microsoft.Azure.DocumentDB.Core.dll": {
+      "Microsoft.Azure.Documents.Client.DocumentClient": {
+        "ProcessRequestAsync": [
+          {
+            "numParams": 3,
+            "genericParams": 0
+          }
+        ]
+      }
+    },
+    "Microsoft.Azure.Cosmos.Client.dll": {
+      "Microsoft.Azure.Cosmos.ContainerCore": {
+        "GetItemQueryIterator": [
+          {
+            "numParams": 3,
+            "genericParams": 1
+          }
+        ],
+        "CreateItemAsync": [
+          {
+            "numParams": 4,
+            "genericParams": 1
+          }
+        ],
+        "DeleteItemAsync": [
+          {
+            "numParams": 4,
+            "genericParams": 1
+          }
+        ],
+        "UpsertItemAsync": [
+          {
+            "numParams": 4,
+            "genericParams": 1
+          }
+        ],
+        "ReplaceItemAsync": [
+          {
+            "numParams": 5,
+            "genericParams": 1
+          }
+        ],
+        "ProcessItemStreamAsync": [
+          {
+            "numParams": 7,
+            "genericParams": 0
+          }
+        ]
+      },
+      "Microsoft.Azure.Cosmos.CosmosQueryClientCore": {
+        "ExecuteItemQueryAsync": [
+          {
+            "numParams": 11,
+            "genericParams": 1
+          },
+          {
+            "numParams": 10,
+            "genericParams": 1
+          }
+        ]
+      },
+      "Microsoft.Azure.Cosmos.Scripts.ScriptsCore": {
+        "ExecuteStoredProcedureStreamAsync": [
+          {
+            "numParams": 5,
+            "genericParams": 0
+          }
+        ]
+      }
+    },
+    "Microsoft.EntityFrameworkCore.Relational.dll": {
+      "Microsoft.EntityFrameworkCore.Storage.Internal.RelationalCommand": {
+        "Execute": [
+          {
+            "numParams": 3,
+            "genericParams": 0
+          }
+        ],
+        "ExecuteAsync": [
+          {
+            "numParams": 4,
+            "genericParams": 0
+          }
+        ]
+      },
+      "Microsoft.EntityFrameworkCore.Storage.RelationalCommand": {
+        "ExecuteNonQuery": [
+          {
+            "numParams": 1,
+            "genericParams": 0
+          }
+        ],
+        "ExecuteNonQueryAsync": [
+          {
+            "numParams": 2,
+            "genericParams": 0
+          }
+        ],
+        "ExecuteScalar": [
+          {
+            "numParams": 1,
+            "genericParams": 0
+          }
+        ],
+        "ExecuteScalarAsync": [
+          {
+            "numParams": 2,
+            "genericParams": 0
+          }
+        ],
+        "ExecuteReader": [
+          {
+            "numParams": 1,
+            "genericParams": 0
+          }
+        ],
+        "ExecuteReaderAsync": [
+          {
+            "numParams": 2,
+            "genericParams": 0
+          }
+        ]
+      }
+    },
+    "StackExchange.Redis.dll": {
+      "StackExchange.Redis.ServerEndPoint": {
+        "TryWrite": [
+          {
+            "numParams": 1,
+            "genericParams": 0
+          }
+        ]
+      },
+      "StackExchange.Redis.PhysicalConnection": {
+        "MatchResult": [
+          {
+            "numParams": 1,
+            "genericParams": 0
+          }
+        ]
+      }
+    },
+    "ServiceStack.Redis.dll": {
+      "ServiceStack.Redis.RedisNativeClient": {
+        "SendReceive": [
+          {
+            "numParams": 4,
+            "genericParams": 1
+          }
+        ]
+      },
+      "ServiceStack.Redis.RedisSubscription": {
+        "ParseSubscriptionResults": [
+          {
+            "numParams": 1,
+            "genericParams": 0
+          }
+        ]
+      }
+    },
+    "Cassandra.dll": {
+      "Cassandra.Session": {
+        "ExecuteAsync": [
+          {
+            "numParams": 1,
+            "genericParams": 0
+          }
+        ]
+      }
+    },
+    "System.Net.Http.dll": {
+      "System.Net.Http.HttpClientHandler": {
+        "SendAsync": [
+          {
+            "numParams": 2,
+            "genericParams": 0
+          }
+        ]
+      }
+    },
+    "Microsoft.AspNetCore.Hosting.dll": {
+      "Microsoft.AspNetCore.Hosting.Internal.HostingApplication": {
+        "DisposeContext": [
+          {
+            "numParams": 2,
+            "genericParams": 0
+          }
+        ],
+        "ProcessRequestAsync": [
+          {
+            "numParams": 1,
+            "genericParams": 0
+          }
+        ]
+      },
+      "Microsoft.AspNetCore.Hosting.HostingApplication": {
+        "DisposeContext": [
+          {
+            "numParams": 2,
+            "genericParams": 0
+          }
+        ],
+        "ProcessRequestAsync": [
+          {
+            "numParams": 1,
+            "genericParams": 0
+          }
+        ]
+      }
+    },
+    "Npgsql.dll": {
+      "Npgsql.NpgsqlCommand": {
+        "ExecuteReader": [
+          {
+            "numParams": 0,
+            "genericParams": 0
+          }
+        ],
+        "ExecuteReaderAsync": [
+          {
+            "numParams": 0,
+            "genericParams": 0
+          }
+        ],
+        "ExecuteNonQuery": [
+          {
+            "numParams": 0,
+            "genericParams": 0
+          }
+        ],
+        "ExecuteScalar": [
+          {
+            "numParams": 0,
+            "genericParams": 0
+          }
+        ]
+      },
+      "Npgsql.NpgsqlConnection": {
+        "Open": [
+          {
+            "numParams": 0,
+            "genericParams": 0
+          }
+        ],
+        "OpenAsync": [
+          {
+            "numParams": 0,
+            "genericParams": 0
+          }
+        ]
+      }
+    },
+    "System.Data.SqlClient.dll": {
+      "System.Data.SqlClient.SqlCommand": {
+        "ExecuteReader": [
+          {
+            "numParams": 1,
+            "genericParams": 0
+          },
+          {
+            "numParams": 10,
+            "genericParams": 0
+          }
+        ],
+        "ExecuteReaderAsync": [
+          {
+            "numParams": 2,
+            "genericParams": 0
+          }
+        ],
+        "ExecuteNonQueryAsync": [
+          {
+            "numParams": 1,
+            "genericParams": 0
+          }
+        ]
+      },
+      "System.Data.SqlClient.SqlConnection": {
+        "Open": [
+          {
+            "numParams": 0,
+            "genericParams": 0
+          }
+        ],
+        "OpenAsync": [
+          {
+            "numParams": 1,
+            "genericParams": 0
+          }
+        ]
+      }
+    },
+    "Microsoft.Data.SqlClient.dll": {
+      "Microsoft.Data.SqlClient.SqlCommand": {
+        "ExecuteReader": [
+          {
+            "numParams": 1,
+            "genericParams": 0
+          },
+          {
+            "numParams": 10,
+            "genericParams": 0
+          }
+        ],
+        "ExecuteReaderAsync": [
+          {
+            "numParams": 2,
+            "genericParams": 0
+          }
+        ],
+        "ExecuteNonQueryAsync": [
+          {
+            "numParams": 1,
+            "genericParams": 0
+          }
+        ],
+        "ExecuteNonQuery": [
+          {
+            "numParams": 0,
+            "genericParams": 0
+          }
+        ]
+      },
+      "Microsoft.Data.SqlClient.SqlConnection": {
+        "Open": [
+          {
+            "numParams": 0,
+            "genericParams": 0
+          }
+        ],
+        "OpenAsync": [
+          {
+            "numParams": 1,
+            "genericParams": 0
+          }
+        ]
+      }
+    },
+    "Microsoft.Extensions.Logging.dll": {
+      "Microsoft.Extensions.Logging.Logger": {
+        "Log": [
+          {
+            "numParams": 5,
+            "genericParams": 1
+          }
+        ]
+      }
+    },
+    "Serilog.dll": {
+      "Serilog.Core.Logger": {
+        "Dispatch": [
+          {
+            "numParams": 1,
+            "genericParams": 0
+          }
+        ]
+      }
+    },
+    "Google.Apis.dll": {
+      "Google.Apis.Download.MediaDownloader": {
+        "DownloadCoreAsync": [
+          {
+            "numParams": 3,
+            "genericParams": 0
+          }
+        ]
+      },
+      "Google.Apis.Upload.ResumableUpload": {
+        "UploadAsync": [
+          {
+            "numParams": 1,
+            "genericParams": 0
+          }
+        ]
+      }
+    },
+    "Grpc.Net.Client.dll": {
+      "Grpc.Net.Client.Internal.GrpcCall`2": {
+        "RunCall": [
+          {
+            "numParams": 2,
+            "genericParams": 0
+          }
+        ]
+      }
+    },
+    "Google.Cloud.PubSub.V1.dll": {
+      "Google.Cloud.PubSub.V1.PublisherServiceApiClientImpl": {
+        "Publish": [
+          {
+            "numParams": 2,
+            "genericParams": 0
+          }
+        ],
+        "PublishAsync": [
+          {
+            "numParams": 2,
+            "genericParams": 0
+          }
+        ],
+        "CreateTopic": [
+          {
+            "numParams": 2,
+            "genericParams": 0
+          }
+        ],
+        "CreateTopicAsync": [
+          {
+            "numParams": 2,
+            "genericParams": 0
+          }
+        ],
+        "UpdateTopic": [
+          {
+            "numParams": 2,
+            "genericParams": 0
+          }
+        ],
+        "UpdateTopicAsync": [
+          {
+            "numParams": 2,
+            "genericParams": 0
+          }
+        ],
+        "DeleteTopic": [
+          {
+            "numParams": 2,
+            "genericParams": 0
+          }
+        ],
+        "DeleteTopicAsync": [
+          {
+            "numParams": 2,
+            "genericParams": 0
+          }
+        ]
+      },
+      "Google.Cloud.PubSub.V1.SubscriberServiceApiClientImpl": {
+        "CreateSubscription": [
+          {
+            "numParams": 2,
+            "genericParams": 0
+          }
+        ],
+        "CreateSubscriptionAsync": [
+          {
+            "numParams": 2,
+            "genericParams": 0
+          }
+        ],
+        "UpdateSubscription": [
+          {
+            "numParams": 2,
+            "genericParams": 0
+          }
+        ],
+        "UpdateSubscriptionAsync": [
+          {
+            "numParams": 2,
+            "genericParams": 0
+          }
+        ],
+        "DeleteSubscription": [
+          {
+            "numParams": 2,
+            "genericParams": 0
+          }
+        ],
+        "DeleteSubscriptionAsync": [
+          {
+            "numParams": 2,
+            "genericParams": 0
+          }
+        ],
+        "CreateSnapshot": [
+          {
+            "numParams": 2,
+            "genericParams": 0
+          }
+        ],
+        "CreateSnapshotAsync": [
+          {
+            "numParams": 2,
+            "genericParams": 0
+          }
+        ],
+        "UpdateSnapshot": [
+          {
+            "numParams": 2,
+            "genericParams": 0
+          }
+        ],
+        "UpdateSnapshotAsync": [
+          {
+            "numParams": 2,
+            "genericParams": 0
+          }
+        ],
+        "DeleteSnapshot": [
+          {
+            "numParams": 2,
+            "genericParams": 0
+          }
+        ],
+        "DeleteSnapshotAsync": [
+          {
+            "numParams": 2,
+            "genericParams": 0
+          }
+        ]
+      }
+    },
+    "Confluent.Kafka.dll": {
+      "Confluent.Kafka.Producer`2": {
+        "ProduceImpl": [
+          {
+            "numParams": 11,
+            "genericParams": 0
+          }
+        ]
+      },
+      "Confluent.Kafka.Consumer`2": {
+        "Consume": [
+          {
+            "numParams": 1,
+            "genericParams": 0
+          }
+        ]
+      },
+      "Confluent.Kafka.AdminClient": {
+        "CreateTopicsAsync": [
+          {
+            "numParams": 2,
+            "genericParams": 0
+          }
+        ],
+        "DeleteTopicsAsync": [
+          {
+            "numParams": 2,
+            "genericParams": 0
+          }
+        ],
+        "CreatePartitionsAsync": [
+          {
+            "numParams": 2,
+            "genericParams": 0
+          }
+        ]
+      }
+    },
+    "Hangfire.Core.dll": {
+      "Hangfire.Server.BackgroundJobPerformer": {
+        "Perform": [
+          {
+            "numParams": 1,
+            "genericParams": 0
+          }
+        ]
+      }
+    }
+  },
+  "interfaceImplementationDef": {
+    "RabbitMQ.Client.IModel": {
+      "BasicPublish": [
+        {
+          "numParams": 5,
+          "genericParams": 0
+        }
+      ],
+      "BasicGet": [
+        {
+          "numParams": 2,
+          "genericParams": 0
+        }
+      ]
+    },
+    "RabbitMQ.Client.Impl.IFullModel": {
+      "HandleBasicDeliver": [
+        {
+          "numParams": 7,
+          "genericParams": 0
+        }
+      ]
+    },
+    "Enyim.Caching.Memcached.IMemcachedNode": {
+      "Execute": [
+        {
+          "numParams": 1,
+          "genericParams": 0
+        }
+      ],
+      "Enyim.Caching.Memcached.IMemcachedNode.Execute": [
+        {
+          "numParams": 1,
+          "genericParams": 0
+        }
+      ]
+    },
+    "System.Web.IHttpHandler": {
+      "ProcessRequest": [
+        {
+          "numParams": 1,
+          "genericParams": 0
+        }
+      ]
+    },
+    "MongoDB.Driver.Core.Bindings.IChannel": {
+      "Command": [
+        {
+          "numParams": 8,
+          "genericParams": 1
+        },
+        {
+          "numParams": 12,
+          "genericParams": 1
+        }
+      ],
+      "CommandAsync": [
+        {
+          "numParams": 8,
+          "genericParams": 1
+        },
+        {
+          "numParams": 12,
+          "genericParams": 1
+        }
+      ]
+    },
+    "MongoDB.Driver.IOperationExecutor": {
+      "ExecuteReadOperation": [
+        {
+          "numParams": 3,
+          "genericParams": 1
+        }
+      ],
+      "ExecuteReadOperationAsync": [
+        {
+          "numParams": 3,
+          "genericParams": 1
+        }
+      ],
+      "ExecuteWriteOperation": [
+        {
+          "numParams": 3,
+          "genericParams": 1
+        }
+      ],
+      "ExecuteWriteOperationAsync": [
+        {
+          "numParams": 3,
+          "genericParams": 1
+        }
+      ]
+    }
+  },
+  "inheritanceDef": {
+    "Aerospike.Client.SyncCommand": {
+      "Execute": [
+        {
+          "numParams": 0,
+          "genericParams": 0
+        },
+        {
+          "numParams": 3,
+          "genericParams": 0
+        }
+      ]
+    },
+    "Aerospike.Client.AsyncCommand": {
+      "Execute": [
+        {
+          "numParams": 0,
+          "genericParams": 0
+        }
+      ]
+    },
+    "Google.Apis.Requests.ClientServiceRequest": {
+      "Execute": [
+        {
+          "numParams": 0,
+          "genericParams": 0
+        }
+      ],
+      "ExecuteAsStream": [
+        {
+          "numParams": 0,
+          "genericParams": 0
+        }
+      ],
+      "ExecuteAsync": [
+        {
+          "numParams": 1,
+          "genericParams": 0
+        }
+      ],
+      "ExecuteAsStreamAsync": [
+        {
+          "numParams": 1,
+          "genericParams": 0
+        }
+      ]
+    }
+  }
+}
