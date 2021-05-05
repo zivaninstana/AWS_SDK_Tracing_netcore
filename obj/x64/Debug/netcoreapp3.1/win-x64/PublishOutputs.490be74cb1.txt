@@ -18,3 +18,4 @@ C:\Users\Zivan\source\repos\DynamoDBDemo\DynamoDBDemo\obj\Debug\netcoreapp3.1\wi
 C:\Users\Zivan\source\repos\DynamoDBDemo\DynamoDBDemo\obj\Debug\netcoreapp3.1\win-x64\PubTmp\Out\Instana.Tracing.Api.dll
 C:\Users\Zivan\source\repos\DynamoDBDemo\DynamoDBDemo\obj\Debug\netcoreapp3.1\win-x64\PubTmp\Out\Instana.Tracing.Core.Instrumentation.dll
 C:\Users\Zivan\source\repos\DynamoDBDemo\DynamoDBDemo\obj\Debug\netcoreapp3.1\win-x64\PubTmp\Out\Instana.Tracing.Core.dll
+C:\Users\Zivan\source\repos\DynamoDBDemo\DynamoDBDemo\obj\Debug\netcoreapp3.1\win-x64\PubTmp\Out\Instana.Tracing.Sdk.dll

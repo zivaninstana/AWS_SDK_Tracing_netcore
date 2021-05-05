@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "ftghhRfwkFZ2p00AP9r4ix/f6T04ky36iBo1KlGXlOYUVYABuMnZRHqRLDjTxLjbnrMl19RqKrqJLADRAPlv2Q==",
+  "dgSpecHash": "f1eixAd1opbjojN449bjAsTZgUQQMu2f2tHOxdoITNO+RLrcHrPjJkENY2ra0l5U5UXJWVoRn7rZakslyrZHeQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\Zivan\\source\\repos\\DynamoDBDemo\\DynamoDBDemo\\DynamoDBDemo.csproj",
   "expectedPackageFiles": [
@@ -11,6 +11,7 @@
     "C:\\Users\\Zivan\\.nuget\\packages\\instana.tracing.core\\1.198.1\\instana.tracing.core.1.198.1.nupkg.sha512",
     "C:\\Users\\Zivan\\.nuget\\packages\\instana.tracing.core.rewriter.linux\\1.198.1\\instana.tracing.core.rewriter.linux.1.198.1.nupkg.sha512",
     "C:\\Users\\Zivan\\.nuget\\packages\\instana.tracing.core.rewriter.windows\\1.198.2\\instana.tracing.core.rewriter.windows.1.198.2.nupkg.sha512",
+    "C:\\Users\\Zivan\\.nuget\\packages\\instana.tracing.core.sdk\\1.199.1-preview01\\instana.tracing.core.sdk.1.199.1-preview01.nupkg.sha512",
     "C:\\Users\\Zivan\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\2.0.0\\microsoft.extensions.configuration.abstractions.2.0.0.nupkg.sha512",
     "C:\\Users\\Zivan\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.0.0\\microsoft.extensions.dependencyinjection.abstractions.2.0.0.nupkg.sha512",
     "C:\\Users\\Zivan\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\2.0.0\\microsoft.extensions.logging.abstractions.2.0.0.nupkg.sha512",

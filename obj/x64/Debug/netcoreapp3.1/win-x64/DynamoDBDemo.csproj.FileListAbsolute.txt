@@ -33,3 +33,4 @@ C:\Users\Zivan\source\repos\DynamoDBDemo\DynamoDBDemo\obj\x64\Debug\netcoreapp3.
 C:\Users\Zivan\source\repos\DynamoDBDemo\DynamoDBDemo\obj\x64\Debug\netcoreapp3.1\win-x64\DynamoDBDemo.csprojAssemblyReference.cache
 C:\Users\Zivan\source\repos\DynamoDBDemo\DynamoDBDemo\bin\x64\Debug\netcoreapp3.1\win-x64\AWSSDK.SQS.dll
 C:\Users\Zivan\source\repos\DynamoDBDemo\DynamoDBDemo\bin\x64\Debug\netcoreapp3.1\win-x64\instana_tracing\CoreProfiler.so
+C:\Users\Zivan\source\repos\DynamoDBDemo\DynamoDBDemo\bin\x64\Debug\netcoreapp3.1\win-x64\Instana.Tracing.Sdk.dll

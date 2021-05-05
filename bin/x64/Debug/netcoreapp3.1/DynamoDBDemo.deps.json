@@ -30,6 +30,7 @@
           "Instana.Tracing.Core": "1.198.1",
           "Instana.Tracing.Core.Rewriter.Linux": "1.198.1",
           "Instana.Tracing.Core.Rewriter.Windows": "1.198.2",
+          "Instana.Tracing.Core.Sdk": "1.199.1-preview01",
           "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": "1.10.9",
           "Microsoft.AspNetCore.Antiforgery": "3.1.0.0",
           "Microsoft.AspNetCore.Authentication.Abstractions": "3.1.0.0",
@@ -406,6 +407,20 @@
       "Instana.Tracing.Core.Rewriter.Windows/1.198.2": {
         "dependencies": {
           "Instana.Tracing.Core": "1.198.1"
+        }
+      },
+      "Instana.Tracing.Core.Sdk/1.199.1-preview01": {
+        "dependencies": {
+          "Instana.Tracing.Core": "1.198.1"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Instana.Tracing.Sdk.dll": {
+            "assemblyVersion": "1.0.65.0",
+            "fileVersion": "1.0.65.0"
+          }
+        },
+        "compile": {
+          "ref/netstandard2.0/Instana.Tracing.Sdk.dll": {}
         }
       },
       "Microsoft.Extensions.Configuration.Abstractions/2.0.0": {
@@ -2170,6 +2185,13 @@
       "sha512": "sha512-BM7mFx0zQOPAVz0XAcjV8oBUvY6bOQCmZ3iqMBctG79c19ecY7/+h+D3HU14Q7AH1zkv79ReCsjQFV9MfUGwnQ==",
       "path": "instana.tracing.core.rewriter.windows/1.198.2",
       "hashPath": "instana.tracing.core.rewriter.windows.1.198.2.nupkg.sha512"
+    },
+    "Instana.Tracing.Core.Sdk/1.199.1-preview01": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-PGvyyiID2gm/v0Z52/uqbNqYWPasKJqVMMCwfvDcWVGu9rMv5GW8wPNmvuRygqYV8uIbOADZK7bROzNHIBfNyw==",
+      "path": "instana.tracing.core.sdk/1.199.1-preview01",
+      "hashPath": "instana.tracing.core.sdk.1.199.1-preview01.nupkg.sha512"
     },
     "Microsoft.Extensions.Configuration.Abstractions/2.0.0": {
       "type": "package",

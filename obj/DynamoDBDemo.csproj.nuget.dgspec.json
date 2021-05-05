@@ -69,6 +69,10 @@
               "target": "Package",
               "version": "[1.198.2, )"
             },
+            "Instana.Tracing.Core.Sdk": {
+              "target": "Package",
+              "version": "[1.199.1-preview01, )"
+            },
             "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
               "target": "Package",
               "version": "[1.10.9, )"

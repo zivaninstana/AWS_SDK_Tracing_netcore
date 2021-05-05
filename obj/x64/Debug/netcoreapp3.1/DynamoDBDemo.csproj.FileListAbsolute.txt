@@ -30,6 +30,7 @@ C:\Users\Zivan\source\repos\DynamoDBDemo\DynamoDBDemo\obj\x64\Debug\netcoreapp3.
 C:\Users\Zivan\source\repos\DynamoDBDemo\DynamoDBDemo\obj\x64\Debug\netcoreapp3.1\DynamoDBDemo.dll
 C:\Users\Zivan\source\repos\DynamoDBDemo\DynamoDBDemo\obj\x64\Debug\netcoreapp3.1\DynamoDBDemo.pdb
 C:\Users\Zivan\source\repos\DynamoDBDemo\DynamoDBDemo\obj\x64\Debug\netcoreapp3.1\DynamoDBDemo.genruntimeconfig.cache
-C:\Users\Zivan\source\repos\DynamoDBDemo\DynamoDBDemo\obj\x64\Debug\netcoreapp3.1\DynamoDBDemo.csprojAssemblyReference.cache
 C:\Users\Zivan\source\repos\DynamoDBDemo\DynamoDBDemo\bin\x64\Debug\netcoreapp3.1\AWSSDK.SQS.dll
 C:\Users\Zivan\source\repos\DynamoDBDemo\DynamoDBDemo\bin\x64\Debug\netcoreapp3.1\instana_tracing\CoreProfiler.so
+C:\Users\Zivan\source\repos\DynamoDBDemo\DynamoDBDemo\bin\x64\Debug\netcoreapp3.1\Instana.Tracing.Sdk.dll
+C:\Users\Zivan\source\repos\DynamoDBDemo\DynamoDBDemo\obj\x64\Debug\netcoreapp3.1\DynamoDBDemo.csprojAssemblyReference.cache
